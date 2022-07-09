@@ -9,7 +9,7 @@
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/169664551-39020c2e-fa95-483b-916b-c52ce4cb907c.png">
 </p>
 
-# sei node setup for Devnet — sei-devnet-1
+# sei node setup for Incentivized Testnet — atlantic-1
 
 Official documentation:
 >- [Validator setup instructions](https://docs.seinetwork.io/nodes-and-validators/joining-devnets)
