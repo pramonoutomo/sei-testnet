@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Sei",
+        "logo": "https://user-images.githubusercontent.com/50621007/169664551-39020c2e-fa95-483b-916b-c52ce4cb907c.png",
+        "links": [
+            {
+                "name": "Testnet",
+                "chain_id": "atlantic-1",
+                "url": "https://seinetwork.io"
+            }
+        ]
+    }
+    ]
